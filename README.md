@@ -1,4 +1,4 @@
-<include a CircleCI status badge, here>
+[![CircleCI](https://circleci.com/gh/jsjohnstone/aws-predictionmicroservice/tree/project.svg?style=svg)](https://circleci.com/gh/jsjohnstone/aws-predictionmicroservice/tree/project)
 
 ## Project Overview
 
