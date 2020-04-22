@@ -1,4 +1,4 @@
-[![CircleCI](https://circleci.com/gh/jsjohnstone/aws-predictionmicroservice/tree/project.svg?style=svg)](https://circleci.com/gh/jsjohnstone/aws-predictionmicroservice/tree/project)
+[![CircleCI](https://circleci.com/gh/jsjohnstone/aws-predictionmicroservice/tree/master.svg?style=svg)](https://circleci.com/gh/jsjohnstone/aws-predictionmicroservice/tree/master)
 
 ## Project Overview
 
