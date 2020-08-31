@@ -1,4 +1,4 @@
-# aws-predictionmicroservice
+# prediction-microservice-demo
 ## AWS Playground: Containerized python flask app for predicting housing prices
 
 Build Status: [![CircleCI](https://circleci.com/gh/jsjohnstone/aws-predictionmicroservice/tree/master.svg?style=svg)](https://circleci.com/gh/jsjohnstone/aws-predictionmicroservice/tree/master)
