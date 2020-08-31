@@ -1,7 +1,7 @@
 # prediction-microservice-demo
 ## AWS Playground: Containerized python flask app for predicting housing prices
 
-Build Status: [![CircleCI](https://circleci.com/gh/jsjohnstone/aws-predictionmicroservice/tree/master.svg?style=svg)](https://circleci.com/gh/jsjohnstone/aws-predictionmicroservice/tree/master)
+Build Status: [![CircleCI](https://circleci.com/gh/jsjohnstone/prediction-microservice-demo/tree/master.svg?style=svg)](https://circleci.com/gh/jsjohnstone/prediction-microservice-demo/tree/master)
 
 This project contains a Python Flash app with a machine learning model that has been trained to predict housing prices in Boston according to several features, such as average rooms in a home and data about highway access, teacher-to-pupil ratios, and so on. 
 
